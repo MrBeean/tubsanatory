@@ -1,0 +1,35 @@
+.intro-bg01 {
+	background: url('../img/intro/intro01.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.intro-bg02 {
+	background: url('../img/intro/intro02.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.intro-bg03 {
+	background: url('../img/intro/intro03.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.intro-bg04 {
+	background: url('../img/intro/intro04.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.intro-bg05 {
+	background: url('../img/intro/intro05.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.intro-bg06 {
+	background: url('../img/intro/intro06.jpg') no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}

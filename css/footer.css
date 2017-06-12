@@ -1,0 +1,17 @@
+.footer {
+  background-color: #4E9600;
+  color: #B3F36D;
+}
+
+.programmer {
+  font-family: 'Barrio', cursive;
+}
+
+.programmer a, a:hover, a:focus {
+  text-decoration: none;
+  color: #B3F36D;
+}
+
+a {
+  color: #B3F36D;
+}

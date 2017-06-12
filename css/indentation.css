@@ -1,0 +1,25 @@
+.nav-right {
+	padding-right: 15px;
+}
+
+.little-top {
+	margin-top: 5px;
+}
+
+.medium-top {
+	margin-top: 10px;
+}
+
+.large-top {
+	margin-top: 20px;
+}
+
+.large-both {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.medium-both {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
